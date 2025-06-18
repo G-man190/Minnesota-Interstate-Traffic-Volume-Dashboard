@@ -6,6 +6,12 @@ This project presents a business intelligence dashboard analyzing traffic patter
 
 ---
 
+## Link to the Dashboard
+
+https://public.tableau.com/views/MinnesotaInterstateTrafficVolume_17502516008420/MinnesotaInterstateTrafficVolume?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
 ## 🎯 Business Problem
 
 The Minnesota Department of Transportation needed a data-driven solution to better understand:
